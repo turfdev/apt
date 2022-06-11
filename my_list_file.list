@@ -1,1 +1,1 @@
-deb https://github.com/turfdev/apt ./
+deb http://github.com/turfdev/apt ./
