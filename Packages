@@ -1,0 +1,25 @@
+Package: filezilla-common
+Source: filezilla
+Version: 3.60.1-1
+Architecture: all
+Maintainer: Phil Wyett <philip.wyett@kathenas.org>
+Installed-Size: 10383
+Filename: ./filezilla-common_3.60.1-1_all.deb
+Size: 2317524
+MD5sum: a263cd29be5fe7c552c04023af21bdfb
+SHA1: a222132bda0dc6e5d26de8b1092385b99a326134
+SHA256: b191bff9c0856539f365ee4479405e466ddc5f812740c2e1d95ecabcee2854bc
+Section: net
+Priority: optional
+Multi-Arch: foreign
+Homepage: https://filezilla-project.org/
+Description: Architecture independent files for filezilla
+ FileZilla is a full-featured FTP client with an easy-to-use GUI.
+ .
+ It is written in C++ and uses the wxWidgets library.
+ .
+ See the filezilla package description for the full list of features.
+ .
+ This package contains architecture independent files such as images and
+ translations.
+

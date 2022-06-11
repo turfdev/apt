@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Sat, 11 Jun 2022 10:57:42 +0000
+MD5Sum:
+ 7fce3f5fb24aed5ea4b9109c1969cd8d              813 Packages
+ 955343444bfd22e7a31021cd46e9b750              530 Packages.gz
+ 412675c9ff6dc04d8f90ffecde09e9d0               38 Release
+SHA1:
+ 8a67ecbf7753db4c95ddeb229ee1f12aaadb4fce              813 Packages
+ 5fda16d54706d91e114e8f19c5059dd79b532374              530 Packages.gz
+ ddf1f39d799969e7baace30a63a2bd08ddcc6a68               38 Release
+SHA256:
+ 0e68161602d4dd4a9122df12b9c725cfd2431280350e141fe498408259d0f446              813 Packages
+ f5ff74b8b29daed860c3e1e0e8ce93ff8adf9ee7f6052b1b60dee0b0b4a7fb47              530 Packages.gz
+ c3857433d44652d7e869433d6f67201f08fb3780e282fc065420424048015d9d               38 Release
+SHA512:
+ c420a7df37ae818c84d6b51b0d4227273bdb7bb805032d4a30ddd1aec6d96734e2eb161b1bd02be6fd9bd9ef401aad470806498a7e5d7350e30ade3c24fe2d47              813 Packages
+ 08ce652bdcdaa9be934bd6dd41013087e49919547102e14874be53fb95e660833e594a62a0f196ad33d6e3c186cacc994f9baf16ac70d424da198662624e71d5              530 Packages.gz
+ 9e70fbff4d507f8d861a530acca1e002a4e84d99c799cd8d9c19d766fa3c7c641d2f5c297465947c3d325937992d94fb3f53d67e12a2f6f9521a28e6b6c58906               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJMBAEBCgA2FiEEvwwlhI+z54hc+ZT+xONpioMXCWkFAmKkdaAYHHR1cmZkZXZw
+dnRsdGRAZ21haWwuY29tAAoJEMTjaYqDFwlpr2AQANJxLPGXqL+XudpxjVSouW55
+mDocvcSq7qxS5UdhpWsyUUxhEFjNOqp/Lc+or5FOaNAXeWKvuYCF7LKYHopwglnu
+hplPkaajzhuXv6b78tYkkcfRmv6/3iOp10cEmqYIbLNLzgh/18MMYIxo6ZYtZgtJ
+aKPw08heYES+DOrm/ot8emmHlrq9X/SoL5gEXSJzQLZA0iuaLtH2haLBJpA3zai+
+iX6+DWO2VhAtHaatWAVPnea+wAtMZla91QGbvtV1Jgp8DW5v44Eh9rQvnRbfTjqn
+qD+Aj/EtvBOuIkRXi1G/UUGI7cKr21elKtwDzkM7pumm8UxKJiKCzh5pZYhXg/yk
+UCmiCLQILqwLxdeeqIb8GBCaHDIvknfDSCY7s4JOvVMkRx7yoygde8syX82d8bw/
+MfUQMGD2uaQf2o321BdSSc/E0QBD0UZgmiO7QsctIUZ2Q03FuQ/3YL6ep7tXjkGJ
+J6+86oVyOEgpqqXMf+9PCG6M0493C/Zlvb7vhXF6983ZsVBHiyz+bAnnZc/n6Q5P
+3C6mytqnyX5gQRjuaOx2cIkB1dKuB3c1UiYrIE5MaxhnCKqPYeJT59ecHoBIH+gU
+Cec0EoTRZv8SDRFtD4bIq/HT2VlyrgQq7xoRUv4GaIzJD/uqwy6p6+wFRVw0NwM+
+HfJ1UoYvBkwS59XVbnMf
+=QVTP
+-----END PGP SIGNATURE-----
